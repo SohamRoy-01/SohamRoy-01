@@ -8,7 +8,7 @@
   <a href="https://twitter.com/sohamroy_01" target="_blank"><img src="https://img.shields.io/twitter/follow/sohamroy_01?style=social" alt="Twitter"></a>
 </p>
 
-- 🔭 I’m currently working on **World clock using with Js & react**
+- 🔭 "Debugging JavaScript is like being a detective in a crime movie where you are also the murderer."
 
 - 🌱 I’m currently learning **react Js**
 
