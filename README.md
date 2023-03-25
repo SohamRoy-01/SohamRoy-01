@@ -1,6 +1,6 @@
 ![MasterHead](https://assets.rocketstock.com/uploads/2016/03/1-3NXEDMxxKzLeAxFSWUuCVg.gif)
 <h1 align="center">Hi 👋, I'm Soham Roy</h1>
-<h3 align="center">I am passionate about full stack Developer.. & Data Structures and Algorithms</h3>
+<h3 align="center">I am passionate about full stack Developer.. & Web3 and currently my forte i frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left">
