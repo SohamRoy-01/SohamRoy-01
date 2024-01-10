@@ -1,6 +1,10 @@
-![MasterHead](https://assets.rocketstock.com/uploads/2016/03/1-3NXEDMxxKzLeAxFSWUuCVg.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="800">
+</div>
+
 <h1 align="center">Hi 👋, I'm Soham Roy</h1>
 <h3 align="center">I am passionate about full stack Development.. & Web3 </h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left">
